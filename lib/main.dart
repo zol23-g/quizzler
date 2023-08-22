@@ -7,7 +7,7 @@ QuizBrain quizBrain = QuizBrain();
 void main() {
   runApp(const Quizzler());
 }
-// stateless widget
+// here extends stateless widget 
 class Quizzler extends StatelessWidget {
   const Quizzler({super.key});
 
